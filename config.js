@@ -7,8 +7,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 import moment from 'moment-timezone' 
 
-global.owner = [
-  ['528681919937', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+global.owner = [528683088045', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
   ['528682577410', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
   ['528682577410', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
   ['528682577410', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
